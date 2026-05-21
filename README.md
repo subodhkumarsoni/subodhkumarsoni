@@ -2,7 +2,7 @@
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
-      <!-- <img width="100px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aGJ5cDd4ZDUzcjljODF6MGpwZHlsaGFkNWx2NXY1cjRweGVjMjBzcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Rpl1sod1vCXK0L2SUN/giphy.gif"> -->
+      <img width="75px" margin="0px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGh1d2UzYTV1aTRiajN1bHN2bG5vbmc1c3FuN2d0aGUwNWdndnZsZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/FdblYGAIakSTaOLhNq/giphy.gif"> 
     </summary>
     <summary>
       <h1>
