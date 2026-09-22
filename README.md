@@ -38,7 +38,19 @@ Hi, I'm Subodh Kumar Soni — a student from India who started with the basics a
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=subodhkumarsoni&theme=react&hide_border=true" alt="GitHub Streak" />
+  <img
+    width="49%"
+    src="https://streak-stats.demolab.com/?user=subodhkumarsoni&theme=react&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://raw.githubusercontent.com/subodhkumarsoni/subodhkumarsoni/main/assets/contributions.svg"
+    alt="GitHub Contributions"
+    width="500"
+  />
 </p>
 
 ---
