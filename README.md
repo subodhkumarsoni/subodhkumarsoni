@@ -88,6 +88,13 @@
   />
 </p>
 
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/103%20Contributions-58A6FF?style=for-the-badge&logo=github&logoColor=white"
+    alt="103 GitHub Contributions"
+  />
+</p>
+
 ---
 
 ## 🔥 GitHub Contributions
