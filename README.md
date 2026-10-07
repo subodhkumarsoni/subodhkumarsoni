@@ -74,12 +74,17 @@
 
 ## 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="left">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=subodhkumarsoni&show_icons=true&theme=react&hide_border=true"
+    width="50%"
+    src="https://streak-stats.vercel.app?user=subodhkumarsoni&theme=react"
     alt="GitHub Stats"
   />
+</p>
+
+![](https://nirzak-streak-stats.vercel.app/?user=subodhkumarsoni&theme=dark&hide_border=false)
 
   <img
     width="49%"
