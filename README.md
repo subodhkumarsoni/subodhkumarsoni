@@ -86,33 +86,7 @@
 
 ![](https://nirzak-streak-stats.vercel.app/?user=subodhkumarsoni&theme=dark&hide_border=false)
 
-  <img
-    width="49%"
-    src="https://streak-stats.demolab.com/?user=subodhkumarsoni&theme=react&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
 
-<p align="left">
-  <img
-    src="https://img.shields.io/badge/103%20Contributions-58A6FF?style=for-the-badge&logo=github&logoColor=white"
-    alt="103 GitHub Contributions"
-  />
-</p>
-
----
-
-## 🔥 GitHub Contributions
-
-<p align="left">
-  <img
-    src="https://ghchart.rshah.org/58A6FF/subodhkumarsoni"
-    alt="GitHub Contributions"
-    width="800"
-  />
-</p>
-
----
 
 <p align="left">
   <img
