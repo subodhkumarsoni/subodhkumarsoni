@@ -13,16 +13,22 @@
   />
 </p>
 
-**Front-End Developer** · React · Next.js · TypeScript · TailwindCSS · Python
+<p align="left">
+  <strong>Front-End Developer</strong> · React · Next.js · TypeScript · TailwindCSS · Python
+</p>
 
-Learning Express.js & Databases
+<p align="left">
+  Learning Express.js & Databases
+</p>
 
-Hi, I'm Subodh Kumar Soni — a student from India who started with the basics and isn't planning to stop anytime soon. Currently leveling up into React, Next.js, TypeScript and the Node/Express ecosystem, one project at a time.
+<p align="left">
+  Hi, I'm Subodh Kumar Soni — a student from India who started with the basics and isn't planning to stop anytime soon. Currently leveling up into React, Next.js, TypeScript and the Node/Express ecosystem, one project at a time.
+</p>
 
 <p align="left">
   <a href="https://github.com/subodhkumarsoni" target="_blank">
     <img
-      src="https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white"
+      src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"
       height="28"
       alt="GitHub"
     />
@@ -55,7 +61,7 @@ Hi, I'm Subodh Kumar Soni — a student from India who started with the basics a
 
 ---
 
-### 🛠️ Tools & Tech
+## 🛠️ Tools & Tech
 
 <p align="left">
   <img
@@ -66,7 +72,7 @@ Hi, I'm Subodh Kumar Soni — a student from India who started with the basics a
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="left">
   <img
@@ -84,7 +90,7 @@ Hi, I'm Subodh Kumar Soni — a student from India who started with the basics a
 
 ---
 
-### 🔥 GitHub Contributions
+## 🔥 GitHub Contributions
 
 <p align="left">
   <img
